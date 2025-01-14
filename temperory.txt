@@ -1,2 +1,2 @@
-HEllo teammates
-trialtem
+this is a temeprory file for checking action in git.
+\dedfffff
